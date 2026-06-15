@@ -1,0 +1,25 @@
+h1 {
+  font-size: clamp(2rem, 8vw, 4rem);
+  color: white;
+}
+
+h3{
+    text-decoration: underline;
+    text-decoration-color:#EF692C ;
+    text-underline-offset: 6px;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.project h1{
+    color: black;
+}
+
+.form h1{
+    color: black;
+}
